@@ -9,5 +9,5 @@ Le but de ce projet est d'empêcher les conflits envers les salles de révision 
 
 Ce projet est réalisé en 100% pure GOlang et pour toute perssone qui serait capable de m'aider a intégrer l'API de l'ENT ou même héberger ce programme une fois fini, veuillez me contacter a l'adresse suivante:
 dragulinescualexandru@tuta.io
-
+Toute perssone intéressé par le fonctionnement ou qui as du mal a l'installer (une fois fini) est aussi bienvenue a me contacter.
 PLACEHOLDER
